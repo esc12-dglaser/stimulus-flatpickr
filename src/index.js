@@ -1,4 +1,4 @@
-import { Controller } from 'stimulus'
+import { Controller } from '@hotwire/stimulus'
 import flatpickr from 'flatpickr'
 import { kebabCase, capitalize } from './utils'
 import { options, dateFormats } from './config_options'
